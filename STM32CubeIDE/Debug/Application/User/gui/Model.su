@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/MyApplication_6/TouchGFX/gui/src/model/Model.cpp:10:1:Model::Model()	0	static
+C:/TouchGFXProjects/MyApplication_6/TouchGFX/gui/src/model/Model.cpp:16:6:void Model::tick()	16	static
+C:/TouchGFXProjects/MyApplication_6/TouchGFX/gui/src/model/Model.cpp:29:6:void Model::setScanJunctionAccel(bool)	0	static
+C:/TouchGFXProjects/MyApplication_6/TouchGFX/gui/src/model/Model.cpp:34:6:void Model::setScanJunctionTemp(bool)	0	static
+C:/TouchGFXProjects/MyApplication_6/TouchGFX/gui/src/model/Model.cpp:39:7:float Model::getAccelValue()	0	static
+C:/TouchGFXProjects/MyApplication_6/TouchGFX/gui/src/model/Model.cpp:44:10:uint32_t Model::getTempValue()	0	static

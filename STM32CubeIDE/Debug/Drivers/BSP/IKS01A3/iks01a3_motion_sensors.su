@@ -1,0 +1,13 @@
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:222:9:IKS01A3_MOTION_SENSOR_Init	88	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1137:9:IKS01A3_MOTION_SENSOR_DeInit	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1163:9:IKS01A3_MOTION_SENSOR_GetCapabilities	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1189:9:IKS01A3_MOTION_SENSOR_ReadID	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1218:9:IKS01A3_MOTION_SENSOR_Enable	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1257:9:IKS01A3_MOTION_SENSOR_Disable	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1297:9:IKS01A3_MOTION_SENSOR_GetAxes	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1337:9:IKS01A3_MOTION_SENSOR_GetAxesRaw	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1377:9:IKS01A3_MOTION_SENSOR_GetSensitivity	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1418:9:IKS01A3_MOTION_SENSOR_GetOutputDataRate	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1458:9:IKS01A3_MOTION_SENSOR_GetFullScale	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1499:9:IKS01A3_MOTION_SENSOR_SetOutputDataRate	8	static
+C:/TouchGFXProjects/MyApplication_6/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.c:1539:9:IKS01A3_MOTION_SENSOR_SetFullScale	8	static

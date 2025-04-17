@@ -1,0 +1,17 @@
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:39:6:void MMA7660::write(uint8_t, uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:47:9:uint8_t MMA7660::read(uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:57:6:void MMA7660::initAccelTable()	6
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:107:6:void MMA7660::setMode(uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:110:6:void MMA7660::setSampleRate(uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:93:6:void MMA7660::init()	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:100:6:void MMA7660::init(uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:116:9:uint8_t MMA7660::getXYZ(int8_t*, int8_t*, int8_t*)	4
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:131:9:uint8_t MMA7660::getAcceleration(uint32_t*, uint32_t*, uint32_t*)	2
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:213:20:void* MMA7660_create()	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:217:10:void MMA7660_destroy(MMA7660_Handle)	2
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:221:10:void MMA7660_init(MMA7660_Handle)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:225:10:void MMA7660_initWithInterrupts(MMA7660_Handle, uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:229:10:void MMA7660_setMode(MMA7660_Handle, uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:233:10:void MMA7660_setSampleRate(MMA7660_Handle, uint8_t)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:237:13:uint8_t MMA7660_getXYZ(MMA7660_Handle, int8_t*, int8_t*, int8_t*)	1
+C:/TouchGFXProjects/MyApplication_6/Core/Src/MMA7660.cpp:241:13:uint8_t MMA7660_getAccelerationFloat(MMA7660_Handle, uint32_t*, uint32_t*, uint32_t*)	1

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_UOJ5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Distance</Translation>
+      </Text>
+      <Text Id="__SingleUse_LX1M" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Vitesse</Translation>
+      </Text>
+      <Text Id="__SingleUse_WRR8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Vitesse</Translation>
+      </Text>
+      <Text Id="__SingleUse_IJ0E" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MIE SafeDist</Translation>
+      </Text>
+      <Text Id="__SingleUse_F0WG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_KVWU" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="80" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="." WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>
